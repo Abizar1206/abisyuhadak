@@ -3,7 +3,7 @@
 I'm *Abizar Ahmad Syuhadak*! Welcome to my GitHub profile.
 
 ### About Me:
-- 🧑‍💻 I'm currently studying [Your Field of Study] at [Your University or School].
+- 🧑‍💻 I'm currently studying [TKJ Cloud Computing] at [SMK Telkom Malang].
 - 🌱 I’m currently learning [What you're learning].
 - 👯 I’m looking to collaborate on exciting projects in [Your interests, e.g. web development, data science].
 - 💡 I’m looking for help with [Any skills or technologies you're seeking help with].
