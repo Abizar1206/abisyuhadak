@@ -1,10 +1,24 @@
-Author: Abizar Ahmad Syuhadak
+## Hi there 👋
 
-Student: SMK Telkom Malang
+I'm *Abizar Ahmad Syuhadak*! Welcome to my GitHub profile.
 
-Deskripsi: Website yang memperkenalkan tentang organisasi atau individu secara profesional terhadap publik. Website ini juga bisa sebagai portofolio online yang menampilkan biodata diri dam lain lainya.
+### About Me:
+- 🧑‍💻 I'm currently studying [Your Field of Study] at [Your University or School].
+- 🌱 I’m currently learning [What you're learning].
+- 👯 I’m looking to collaborate on exciting projects in [Your interests, e.g. web development, data science].
+- 💡 I’m looking for help with [Any skills or technologies you're seeking help with].
+- 💬 Ask me about anything related to [Your expertise or areas you're comfortable discussing].
+- 📫 How to reach me: [Your email address or social media links].
+- ⚡ Fun fact: [A fun fact about you, e.g. I love coding and coffee!].
 
-Fitur: 
-Penjelasan tentang biodata
-Menampilkan karya-karya
-Informasi untuk menghubungi pemilik website
+### My Skills:
+- 💻 Languages: [Languages you know, e.g. HTML, CSS, JavaScript, Python, etc.].
+- 🔧 Tools: [Tools you're familiar with, e.g. Git, VSCode, Node.js].
+- 🌐 Web Development: [Frontend/Backend skills you have].
+- 🛠 Currently Working On: [Current projects or goals].
+
+### Projects:
+- 💼 [Project 1 Name]: [Brief description of Project 1]
+- 🚀 [Project 2 Name]: [Brief description of Project 2]
+  
+Feel free to explore my repositories and get in touch if you’d like to collaborate!
